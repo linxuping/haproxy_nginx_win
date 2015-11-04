@@ -1,0 +1,3 @@
+部署：
+每隔5min启动一次run.bat，预防haproxy.exe异常退出
+每隔1h重启一次restart.bat，预防haproxy.exe不可服务
